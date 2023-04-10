@@ -16,5 +16,7 @@ like this:
 <img width="412" alt="1ss" src="https://user-images.githubusercontent.com/130108693/230805442-bdd7d929-9ea7-4325-8bb2-9056437210e4.png">
 
 # Step 4: Trying commands
-On the terminal, try running some commands such as **cd ~**, **cd**, **ls -lat**, and **ls -a** 
+On the terminal, try running some commands such as **cd ~**, **cd**, **ls -lat**, and **ls -a**. The output should be something like this:
+<img width="791" alt="15l2" src="https://user-images.githubusercontent.com/130108693/230817734-b51d988e-b22d-4b27-af7e-fc2e35cca988.png">
+
 
