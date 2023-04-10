@@ -13,6 +13,7 @@ git bash. Open git bash terminal and enter: "ssh cs15lsp23zz@ieng6.ucsd.edu" wit
 If this is the first time you log in, you should receive a message asking if you want to continue, which you should type yes. Next, it'll ask 
 you to enter a password, which is the same password you've created in step 1. After completing all these steps, your terminal should look something
 like this:
+
 <img width="412" alt="1ss" src="https://user-images.githubusercontent.com/130108693/230805442-bdd7d929-9ea7-4325-8bb2-9056437210e4.png">
 
 # Step 4: Trying commands
