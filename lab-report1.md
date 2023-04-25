@@ -20,6 +20,6 @@ like this:
 On the terminal, try running some commands such as `cd ~`, `cd`, `ls -lat`, and `ls -a`. The `cd` command changes current directory to target directory and the `ls` command list directories. After putting the commands, the output should look something like this:
 <img width="791" alt="15l2" src="https://user-images.githubusercontent.com/130108693/230817734-b51d988e-b22d-4b27-af7e-fc2e35cca988.png"> 
 
-As shown from the image above, the `ls -lat` command basically shows lists permissions, ownership, and timestamps. 
+As shown from the output, the `ls -lat` command basically shows lists permissions, ownership, and timestamps. 
 
 
