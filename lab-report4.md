@@ -37,12 +37,7 @@ us to edit the code inside the terminal. It should look something like this:
 <img width="426" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/c96da625-ea31-4213-be78-b8f8405956f3">
 
 To check on what was wrong with the code, I have to type 
-
-`<down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down>
-<down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down>`
-
-and found out that *index1* is supposed to be *index2*, so in order to fix this I have to type `<right><right><right>
-<right><right><right><right><right><right><right><right>` to reach to *1* and `<delete><2>` to change it to *2*. Finally,
+`<down>` 43 times and found out that *index1* is supposed to be *index2*, so in order to fix this I have to type `<right>` 11 times to reach to *1* and `<delete><2>` to change it to *2*. Finally,
 after making all these changes, I typed `<Ctrl-O><enter>` to write and save the changes and `<Ctrl-X>` to exit the nano 
 text editor. 
 ## Step 8 - Run the tests, demonstrating that they now succeed
