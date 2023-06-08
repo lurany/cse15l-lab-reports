@@ -38,11 +38,6 @@ us to edit the code inside the terminal. It should look something like this:
 
 To check on what was wrong with the code, I have to type 
 
-`<down>`
-`down`
-`<down> <down`
-`<=down=> <=down=>`
-
 `<down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down>
 <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down> <down>`
 
