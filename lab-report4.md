@@ -10,17 +10,12 @@ in the terminal since `<enter>` allows the terminal to run the command.
 Since I have already set up a **SSH key**, I am able to log into my
 remote account without the need to type my password in.
 ## Step 5 - Clone your fork of the repository from your Github account
-<img width="306" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/d6af8be5-4a71-41ad-942f-cbebc5d0a429">
+<img width="422" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/6a3432ac-b1f2-45f9-aa68-47913d62eb7b">
 
-<img width="416" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/41ae03e1-20e7-4197-8759-2479e176aa89">
-
-As we can see, I have already link my GitHub to my remote account during my lab, so all I need to do right now is to use ssh on GitHub
-to clone it into my ieng6 account. I typed:
+To clone the repository, I simply copied the link from GitHub and typed:
 
 `$ git clone <link from GitHub> <enter>` 
 
-and it should be able to clone. However, I have already cloned it earlier so my lab7 already exits and the directory is no longer empty,
-which is why it shows up like that. 
 ## Step 6 - Run the tests, demonstrating that they fail
 <img width="422" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/bea6afe3-afdf-48a6-a8c8-cb9efd24dc51">
 
