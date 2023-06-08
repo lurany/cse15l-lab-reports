@@ -38,7 +38,7 @@ us to edit the code inside the terminal. It should look something like this:
 
 To check on what was wrong with the code, I have to type 
 
-`<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down>
+`<=down=><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down>
 <down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down>`
 
 and found out that *index1* is supposed to be *index2*, so in order to fix this I have to type `<right><right><right>
