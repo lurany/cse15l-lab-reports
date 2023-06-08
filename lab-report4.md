@@ -66,6 +66,9 @@ that you want to put after changing the file. It should look like this:
 
 <img width="358" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/d1e62dd0-d63a-4550-944c-c60a933bc43a">
 
-Finally, I typed `$ git push` to forward the changes into my repository on GitHub.
+Finally, I typed `$ git push` to forward the changes into my repository on GitHub and it should like this:
+
+<img width="654" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/e27777da-5567-4375-ae15-db54efd5759a">
+
 
 
