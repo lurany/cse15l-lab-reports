@@ -1,21 +1,23 @@
 # Part 1 - Debugging Scenario
-<img width="503" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/40664a75-9481-4a6c-bfc3-a02f24b1927c">
+<img width="504" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/6ac6b453-d4e4-4df3-8c47-04cb6b287048">
 
 
-The code for the `ArrayTests.java` is:
+The code for the `ListExamples.java` is:
 
-<img width="410" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/79ce7b49-cd25-4afd-b63b-a5d2437b060f">
+<img width="456" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/9aab4218-5357-4f11-ac51-72d2f6938da5">
+
 
 The bug/symptom it showed was:
 
-<img width="621" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/ddff06c5-0875-4264-ba4f-015808fdbc74">
+<img width="575" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/94a27815-3af0-4601-8838-32804428a3fc">
+
 
 ## TA Response:
 
-The code that you have provided is correct and your expected output was that it should be able to run tests, however; it did not run, and 
-here might be a reason why. I could see that you try to compile your files on the terminal, but thing about it is that it did compile right.
-After compiling, you weren't supposed to add `.java` at the end of the file. When compiling, you were suppose to `javac` compile with `ArrayTests.java` 
-or `*.java`, but after that, you were suppose to `java ArrayTests` excluding `.java`.
+Based on the output that you showed, you were expecting to run tests, however; it fails as the array lengths were different. This means
+that there is something in your code that is affecting the size of the array. By looking at your code, I could see that on *line 26*,
+your `index1` and `index2` have different lengths. Since you are trying to index it through the conditional loops, it is wise to start 
+your index on **0** or in other words, you should change `index1` from **1000** to **0**. 
 
 
 
