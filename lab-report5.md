@@ -8,7 +8,7 @@ The code for the `ArrayTests.java` is:
 
 The bug/symptom it showed was:
 
-<img width="548" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/46edf996-eda6-498a-b2ec-2a8b87cbd8cb">
+<img width="621" alt="image" src="https://github.com/lurany/cse15l-lab-reports/assets/130108693/ddff06c5-0875-4264-ba4f-015808fdbc74">
 
 ## TA Response:
 
