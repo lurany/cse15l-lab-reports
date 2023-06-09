@@ -42,7 +42,12 @@ The file and directory I used was *ListExamples.java* in *lab7*. The contents be
 The full command lines I did to trigger the bug was `cd lab7` to enter the directory, `nano ListExamples.java` to access the code file
 through the terminal, and then changing the size of `index1` to a very large number so that it will fail the `while` loops. To fix the 
 bug, you can simply go back to the `ListExamples` file either through the terminal, which I used, or just clicking the file on the left 
-primary side bar on *VScode*, and change `index1` size back to **0**.
+primary side bar on *VScode*, and change `index1` size back to **0**. Finally, you would want to compile and run the tests by using the
+following commands:
+
+`javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
+`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
+
 
 
 
