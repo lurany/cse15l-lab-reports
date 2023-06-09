@@ -46,6 +46,8 @@ primary side bar on *VScode*, and change `index1` size back to **0**. Finally, y
 following commands:
 
 `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
+
+
 `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
 
 
